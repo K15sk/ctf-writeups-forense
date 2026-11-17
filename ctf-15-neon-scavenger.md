@@ -38,8 +38,8 @@ Seguindo a pista “o sinal está nos erros”, foram selecionadas apenas as lin
 
 ### Evidência
 
-![CTF 15 – Neon scavenger](../img/ctf-15.png)
+![CTF 15 – Neon scavenger](ctf-15.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 14](ctf-14-filtragem-obscura.md)
+[↑ Voltar ao índice](README.md) · [← CTF 14](ctf-14-filtragem-obscura.md)

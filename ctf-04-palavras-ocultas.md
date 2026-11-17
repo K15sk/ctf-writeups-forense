@@ -38,8 +38,8 @@ A inspeção das primeiras linhas mostrou que cada palavra estava codificada em 
 
 ### Evidência
 
-![CTF 4 – Palavras ocultas](../img/ctf-04.png)
+![CTF 4 – Palavras ocultas](ctf-04.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 3](ctf-03-palavra-escondida.md) · [CTF 5 →](ctf-05-criacao-de-usuario-suspeita.md)
+[↑ Voltar ao índice](README.md) · [← CTF 3](ctf-03-palavra-escondida.md) · [CTF 5 →](ctf-05-criacao-de-usuario-suspeita.md)

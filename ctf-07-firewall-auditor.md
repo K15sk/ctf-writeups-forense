@@ -39,8 +39,8 @@ Foram selecionadas apenas as regras com alvo ACCEPT e protocolo TCP cujo destino
 
 ### Evidência
 
-![CTF 7 – Firewall auditor](../img/ctf-07.png)
+![CTF 7 – Firewall auditor](ctf-07.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 6](ctf-06-filtragem-basica.md) · [CTF 8 →](ctf-08-vigilancia-administrativa.md)
+[↑ Voltar ao índice](README.md) · [← CTF 6](ctf-06-filtragem-basica.md) · [CTF 8 →](ctf-08-vigilancia-administrativa.md)

@@ -36,8 +36,8 @@ Cada linha foi decodificada individualmente em um laço while, descartando erros
 
 ### Evidência
 
-![CTF 14 – Filtragem obscura](../img/ctf-14.png)
+![CTF 14 – Filtragem obscura](ctf-14.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 13](ctf-13-elf.md) · [CTF 15 →](ctf-15-neon-scavenger.md)
+[↑ Voltar ao índice](README.md) · [← CTF 13](ctf-13-elf.md) · [CTF 15 →](ctf-15-neon-scavenger.md)

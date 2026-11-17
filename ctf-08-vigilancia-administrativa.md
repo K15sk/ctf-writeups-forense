@@ -35,8 +35,8 @@ Na saída do netstat, a maior parte das portas está em estado LISTENING e assoc
 
 ### Evidência
 
-![CTF 8 – Vigilância administrativa](../img/ctf-08.png)
+![CTF 8 – Vigilância administrativa](ctf-08.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 7](ctf-07-firewall-auditor.md) · [CTF 9 →](ctf-09-na-madruga.md)
+[↑ Voltar ao índice](README.md) · [← CTF 7](ctf-07-firewall-auditor.md) · [CTF 9 →](ctf-09-na-madruga.md)

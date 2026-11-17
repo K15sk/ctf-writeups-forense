@@ -44,8 +44,8 @@ No VLSM, as sub-redes são alocadas da maior para a menor demanda, escolhendo pa
 
 ### Evidência
 
-![CTF 11 – Roteamento estratégico](../img/ctf-11.png)
+![CTF 11 – Roteamento estratégico](ctf-11.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 10](ctf-10-quebra-de-sub-rede.md) · [CTF 12 →](ctf-12-tool.md)
+[↑ Voltar ao índice](README.md) · [← CTF 10](ctf-10-quebra-de-sub-rede.md) · [CTF 12 →](ctf-12-tool.md)

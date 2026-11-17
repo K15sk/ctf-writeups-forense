@@ -38,8 +38,8 @@ O comando file revelou que o artefato fw era um arquivo compactado com gzip. Ap�
 
 ### Evidência
 
-![CTF 1 – Barreiras invisíveis](../img/ctf-01.png)
+![CTF 1 – Barreiras invisíveis](ctf-01.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [CTF 2 →](ctf-02-rastros-do-pinguim.md)
+[↑ Voltar ao índice](README.md) · [CTF 2 →](ctf-02-rastros-do-pinguim.md)

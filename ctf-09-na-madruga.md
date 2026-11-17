@@ -37,8 +37,8 @@ O log não está em ordem cronológica, por isso é necessário filtrar o interv
 
 ### Evidência
 
-![CTF 9 – Na madruga](../img/ctf-09.png)
+![CTF 9 – Na madruga](ctf-09.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 8](ctf-08-vigilancia-administrativa.md) · [CTF 10 →](ctf-10-quebra-de-sub-rede.md)
+[↑ Voltar ao índice](README.md) · [← CTF 8](ctf-08-vigilancia-administrativa.md) · [CTF 10 →](ctf-10-quebra-de-sub-rede.md)

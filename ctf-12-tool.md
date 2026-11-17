@@ -34,8 +34,8 @@ O arquivo dpkg.log registra todas as operações do gerenciador de pacotes do De
 
 ### Evidência
 
-![CTF 12 – Tool](../img/ctf-12.png)
+![CTF 12 – Tool](ctf-12.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 11](ctf-11-roteamento-estrategico.md) · [CTF 13 →](ctf-13-elf.md)
+[↑ Voltar ao índice](README.md) · [← CTF 11](ctf-11-roteamento-estrategico.md) · [CTF 13 →](ctf-13-elf.md)

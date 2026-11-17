@@ -37,8 +37,8 @@ A máscara 255.255.255.192 equivale a /26, ou seja, sobram 6 bits para hosts e c
 
 ### Evidência
 
-![CTF 10 – Quebra de sub-rede](../img/ctf-10.png)
+![CTF 10 – Quebra de sub-rede](ctf-10.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 9](ctf-09-na-madruga.md) · [CTF 11 →](ctf-11-roteamento-estrategico.md)
+[↑ Voltar ao índice](README.md) · [← CTF 9](ctf-09-na-madruga.md) · [CTF 11 →](ctf-11-roteamento-estrategico.md)

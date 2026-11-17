@@ -35,8 +35,8 @@ O awk foi configurado com o separador “:” (-F:). A condição $NF == "/bin/b
 
 ### Evidência
 
-![CTF 6 – Filtragem básica](../img/ctf-06.png)
+![CTF 6 – Filtragem básica](ctf-06.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 5](ctf-05-criacao-de-usuario-suspeita.md) · [CTF 7 →](ctf-07-firewall-auditor.md)
+[↑ Voltar ao índice](README.md) · [← CTF 5](ctf-05-criacao-de-usuario-suspeita.md) · [CTF 7 →](ctf-07-firewall-auditor.md)

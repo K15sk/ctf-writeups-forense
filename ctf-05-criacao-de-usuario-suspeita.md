@@ -36,8 +36,8 @@ O arquivo .evtx é um log de eventos do Windows (no caso, gerado pelo Sysmon). C
 
 ### Evidência
 
-![CTF 5 – Criação de usuário suspeita](../img/ctf-05.png)
+![CTF 5 – Criação de usuário suspeita](ctf-05.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 4](ctf-04-palavras-ocultas.md) · [CTF 6 →](ctf-06-filtragem-basica.md)
+[↑ Voltar ao índice](README.md) · [← CTF 4](ctf-04-palavras-ocultas.md) · [CTF 6 →](ctf-06-filtragem-basica.md)

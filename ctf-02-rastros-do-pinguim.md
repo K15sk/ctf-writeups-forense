@@ -44,8 +44,8 @@ O conteúdo de code estava em hexadecimal. O comando xxd -r -p converteu o texto
 
 ### Evidência
 
-![CTF 2 – Rastros do pinguim](../img/ctf-02.png)
+![CTF 2 – Rastros do pinguim](ctf-02.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 1](ctf-01-barreiras-invisiveis.md) · [CTF 3 →](ctf-03-palavra-escondida.md)
+[↑ Voltar ao índice](README.md) · [← CTF 1](ctf-01-barreiras-invisiveis.md) · [CTF 3 →](ctf-03-palavra-escondida.md)

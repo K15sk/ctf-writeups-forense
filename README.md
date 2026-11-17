@@ -6,7 +6,7 @@ Cada writeup traz o enunciado, o objetivo, o passo a passo da investigação, os
 
 ## 👩‍💻 Sobre
 
-**Karen Simões Kroger** — estudante de Segurança Cibernética na FIAP.
+**Karen Simões Kröger** — estudante de Segurança Cibernética na FIAP.
 
 <!-- Adicione aqui seus links, por exemplo:
 [LinkedIn](https://www.linkedin.com/in/seu-usuario) · [E-mail](mailto:seu@email.com)
@@ -30,35 +30,31 @@ Cada writeup traz o enunciado, o objetivo, o passo a passo da investigação, os
 
 | # | Desafio | Categoria | Técnicas |
 |---|---|---|---|
-| 1 | [Barreiras invisíveis](writeups/ctf-01-barreiras-invisiveis.md) | Análise de malware / Firewall | iptables, leitura de script de persistência |
-| 2 | [Rastros do pinguim](writeups/ctf-02-rastros-do-pinguim.md) | Decodificação | Hexadecimal (xxd), substring em Bash, Base64 |
-| 3 | [Palavra escondida](writeups/ctf-03-palavra-escondida.md) | Manipulação de texto | sort, uniq, sed |
-| 4 | [Palavras ocultas](writeups/ctf-04-palavras-ocultas.md) | Decodificação | Base64 + filtragem |
-| 5 | [Criação de usuário suspeita](writeups/ctf-05-criacao-de-usuario-suspeita.md) | Forense Windows | Logs Sysmon (.evtx), strings UTF-16 |
-| 6 | [Filtragem básica](writeups/ctf-06-filtragem-basica.md) | Manipulação de texto | awk com regex em /etc/passwd |
-| 7 | [Firewall auditor](writeups/ctf-07-firewall-auditor.md) | Firewall | Auditoria de regras iptables |
-| 8 | [Vigilância administrativa](writeups/ctf-08-vigilancia-administrativa.md) | Forense de rede | Correlação netstat × processos (C2) |
-| 9 | [Na madruga](writeups/ctf-09-na-madruga.md) | Forense Linux | Análise de auth.log (SSH) |
-| 10 | [Quebra de sub-rede](writeups/ctf-10-quebra-de-sub-rede.md) | Redes | Cálculo de sub-rede /26 |
-| 11 | [Roteamento estratégico](writeups/ctf-11-roteamento-estrategico.md) | Redes | Planejamento VLSM |
-| 12 | [Tool](writeups/ctf-12-tool.md) | Forense Linux | Análise de dpkg.log |
-| 13 | [ELF](writeups/ctf-13-elf.md) | Decodificação | Script oculto em hex + Base64 |
-| 14 | [Filtragem obscura](writeups/ctf-14-filtragem-obscura.md) | Manipulação de texto | Laço while, base64, uniq -c |
-| 15 | [Neon scavenger](writeups/ctf-15-neon-scavenger.md) | Forense Linux | Extração de dados de kernel.log com tr/awk |
+| 1 | [Barreiras invisíveis](ctf-01-barreiras-invisiveis.md) | Análise de malware / Firewall | iptables, leitura de script de persistência |
+| 2 | [Rastros do pinguim](ctf-02-rastros-do-pinguim.md) | Decodificação | Hexadecimal (xxd), substring em Bash, Base64 |
+| 3 | [Palavra escondida](ctf-03-palavra-escondida.md) | Manipulação de texto | sort, uniq, sed |
+| 4 | [Palavras ocultas](ctf-04-palavras-ocultas.md) | Decodificação | Base64 + filtragem |
+| 5 | [Criação de usuário suspeita](ctf-05-criacao-de-usuario-suspeita.md) | Forense Windows | Logs Sysmon (.evtx), strings UTF-16 |
+| 6 | [Filtragem básica](ctf-06-filtragem-basica.md) | Manipulação de texto | awk com regex em /etc/passwd |
+| 7 | [Firewall auditor](ctf-07-firewall-auditor.md) | Firewall | Auditoria de regras iptables |
+| 8 | [Vigilância administrativa](ctf-08-vigilancia-administrativa.md) | Forense de rede | Correlação netstat × processos (C2) |
+| 9 | [Na madruga](ctf-09-na-madruga.md) | Forense Linux | Análise de auth.log (SSH) |
+| 10 | [Quebra de sub-rede](ctf-10-quebra-de-sub-rede.md) | Redes | Cálculo de sub-rede /26 |
+| 11 | [Roteamento estratégico](ctf-11-roteamento-estrategico.md) | Redes | Planejamento VLSM |
+| 12 | [Tool](ctf-12-tool.md) | Forense Linux | Análise de dpkg.log |
+| 13 | [ELF](ctf-13-elf.md) | Decodificação | Script oculto em hex + Base64 |
+| 14 | [Filtragem obscura](ctf-14-filtragem-obscura.md) | Manipulação de texto | Laço while, base64, uniq -c |
+| 15 | [Neon scavenger](ctf-15-neon-scavenger.md) | Forense Linux | Extração de dados de kernel.log com tr/awk |
 
 ## 📁 Estrutura do repositório
 
-```
-.
-├── README.md
-├── writeups/      # um arquivo por CTF
-├── img/           # capturas de tela de cada resolução
-└── relatorio/     # relatório completo em PDF (formato ABNT)
-```
+- `ctf-NN-nome.md`: writeup de cada desafio
+- `ctf-NN.png`: captura de tela da resolução
+- `Relatorio_Global_Solution_1Semestre.pdf`: relatório completo em formato ABNT
 
 ## 📄 Relatório completo
 
-O relatório acadêmico original, em formato ABNT, está em [`relatorio/Relatorio_Global_Solution_1Semestre.pdf`](relatorio/Relatorio_Global_Solution_1Semestre.pdf).
+O relatório acadêmico original, em formato ABNT, está em [`Relatorio_Global_Solution_1Semestre.pdf`](Relatorio_Global_Solution_1Semestre.pdf).
 
 ## 💡 Principais aprendizados
 

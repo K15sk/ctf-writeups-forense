@@ -39,8 +39,8 @@ Assim como no desafio 2, o arquivo continha um script Bash em hexadecimal, recup
 
 ### Evidência
 
-![CTF 13 – ELF](../img/ctf-13.png)
+![CTF 13 – ELF](ctf-13.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 12](ctf-12-tool.md) · [CTF 14 →](ctf-14-filtragem-obscura.md)
+[↑ Voltar ao índice](README.md) · [← CTF 12](ctf-12-tool.md) · [CTF 14 →](ctf-14-filtragem-obscura.md)

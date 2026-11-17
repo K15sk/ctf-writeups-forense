@@ -33,8 +33,8 @@ O comando sort ordena as linhas do arquivo, agrupando as palavras iguais; o uniq
 
 ### Evidência
 
-![CTF 3 – Palavra escondida](../img/ctf-03.png)
+![CTF 3 – Palavra escondida](ctf-03.png)
 
 ---
 
-[↑ Voltar ao índice](../README.md) · [← CTF 2](ctf-02-rastros-do-pinguim.md) · [CTF 4 →](ctf-04-palavras-ocultas.md)
+[↑ Voltar ao índice](README.md) · [← CTF 2](ctf-02-rastros-do-pinguim.md) · [CTF 4 →](ctf-04-palavras-ocultas.md)
