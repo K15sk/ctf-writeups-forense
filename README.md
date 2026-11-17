@@ -1,10 +1,10 @@
-# 🔐 CTF Writeups — Análise Forense e Segurança Cibernética
+#  CTF Writeups — Análise Forense e Segurança Cibernética
 
 Resolução comentada de **15 desafios no formato Capture The Flag (CTF)** realizados na Global Solution do 1º semestre do curso de **Segurança Cibernética da FIAP**, em ambiente **Kali Linux**.
 
 Cada writeup traz o enunciado, o objetivo, o passo a passo da investigação, os comandos utilizados, a explicação do raciocínio, a evidência (captura de tela) e a resposta.
 
-## 👩‍💻 Sobre
+##  Sobre
 
 **Karen Simões Kröger** — estudante de Segurança Cibernética na FIAP.
 
@@ -12,7 +12,7 @@ Cada writeup traz o enunciado, o objetivo, o passo a passo da investigação, os
 [LinkedIn](https://www.linkedin.com/in/seu-usuario) · [E-mail](mailto:seu@email.com)
 -->
 
-## 🧠 Habilidades demonstradas
+##  Habilidades demonstradas
 
 - **Forense em Linux:** análise de `auth.log`, `dpkg.log` e `kernel.log`
 - **Forense em Windows:** investigação de logs do Sysmon (`.evtx`) para identificar criação de contas e escalonamento de privilégios
@@ -22,11 +22,11 @@ Cada writeup traz o enunciado, o objetivo, o passo a passo da investigação, os
 - **Processamento de texto na linha de comando:** `grep`, `awk`, `sed`, `sort`, `uniq`, `tr` e pipes
 - **Redes IPv4:** cálculo de sub-redes e planejamento com VLSM
 
-## 🛠️ Ferramentas
+## Ferramentas
 
 `Kali Linux` · `Bash` · `grep` · `awk` · `sed` · `sort` · `uniq` · `tr` · `strings` · `xxd` · `base64` · `file`
 
-## 📚 Índice dos desafios
+## Índice dos desafios
 
 | # | Desafio | Categoria | Técnicas |
 |---|---|---|---|
@@ -46,17 +46,17 @@ Cada writeup traz o enunciado, o objetivo, o passo a passo da investigação, os
 | 14 | [Filtragem obscura](ctf-14-filtragem-obscura.md) | Manipulação de texto | Laço while, base64, uniq -c |
 | 15 | [Neon scavenger](ctf-15-neon-scavenger.md) | Forense Linux | Extração de dados de kernel.log com tr/awk |
 
-## 📁 Estrutura do repositório
+##  Estrutura do repositório
 
 - `ctf-NN-nome.md`: writeup de cada desafio
 - `ctf-NN.png`: captura de tela da resolução
 - `Relatorio_Global_Solution_1Semestre.pdf`: relatório completo em formato ABNT
 
-## 📄 Relatório completo
+##  Relatório completo
 
 O relatório acadêmico original, em formato ABNT, está em [`Relatorio_Global_Solution_1Semestre.pdf`](Relatorio_Global_Solution_1Semestre.pdf).
 
-## 💡 Principais aprendizados
+##  Principais aprendizados
 
 Na maioria dos casos, o primeiro passo foi identificar a natureza do artefato com `file`, o que orientou a técnica de leitura e decodificação. Os desafios mostraram padrões comuns em incidentes reais: ofuscação simples com hexadecimal e Base64, persistência por scripts de inicialização, criação de contas administrativas, conexões de saída para portas não padronizadas e instalação de scanners de vulnerabilidade. Também reforçaram que um único caractere copiado errado muda completamente o resultado de uma decodificação — por isso cada etapa precisa ser validada.
 
